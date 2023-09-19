@@ -1,1 +1,1 @@
-# DataScienceCollection
+# Collection of Sqlite projects
